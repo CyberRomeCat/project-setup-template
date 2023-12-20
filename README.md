@@ -1,4 +1,4 @@
 # project-setup-template
-[x] webpack
-[x] ESlint
-[x] prettier
+- [x] Webpack
+- [x] ESlint
+- [x] prettier
